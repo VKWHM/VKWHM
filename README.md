@@ -148,3 +148,22 @@ Web Application Security • Digital Forensics & Incident Response • Red Teami
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
 </div>
+
+---
+
+<h2 align="center">📊 Stats & Performance</h2>
+
+<p align="center">Progress over perfection. Every day a little better.</p>
+
+<br>
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=VKWHM&show_icons=true&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKWHM&layout=compact&hide_border=true" height="165"/>
+
+</div>
+
+<br>
+
