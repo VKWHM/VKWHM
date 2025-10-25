@@ -107,8 +107,8 @@ Web Application Security • Digital Forensics & Incident Response • Red Teami
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=VKWHM&show_icons=true&hide_border=true" height="145"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKWHM&layout=compact&hide_border=true" height="145"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VKWHM&show_icons=true&hide_border=true&theme=react" height="145"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKWHM&layout=compact&hide_border=true&theme=react" height="145"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VKWHM&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=ffffff" height="215"/>
 </div>
 
