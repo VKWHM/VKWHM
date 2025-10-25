@@ -6,7 +6,7 @@
 
 <!-- Animated Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=900&color=000000&center=true&vCenter=true&width=650&lines=Breaking+down+problems+with+logic+and+patience;Exploring+new+perspectives+through+code;Curiosity+guides+my+learning+journey;Every+challenge+is+an+opportunity+to+grow;Math+sharpens+my+thinking%2C+coding+shapes+my+ideas;Connecting+and+sharing+knowledge+matters;Collaboration+turns+effort+into+success;Always+moving+forward%2C+always+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=900&color=FF9F1C&center=true&vCenter=true&width=650&lines=Breaking+down+problems+with+logic+and+patience;Exploring+new+perspectives+through+code;Curiosity+guides+my+learning+journey;Every+challenge+is+an+opportunity+to+grow;Math+sharpens+my+thinking%2C+coding+shapes+my+ideas;Connecting+and+sharing+knowledge+matters;Collaboration+turns+effort+into+success;Always+moving+forward%2C+always+improving" alt="Typing SVG" />
 </p>
 
 <h2 align="center">Who Am I?</h2>
@@ -107,9 +107,9 @@ Web Application Security • Digital Forensics & Incident Response • Red Teami
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=VKWHM&show_icons=true&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKWHM&layout=compact&hide_border=true" height="165"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=VKWHM&show_icons=true&hide_border=true" height="145"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKWHM&layout=compact&hide_border=true" height="145"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VKWHM&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=ffffff" height="215"/>
 </div>
 
 <br>
