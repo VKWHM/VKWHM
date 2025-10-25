@@ -25,59 +25,6 @@
 
 </div>
 
-<h2 align="center">Featured Projects</h2>
-
-<div align="center">
-
-### 🔧 Software Engineering Perspective
-
-#### Full-Stack & Web Apps
-
-
-| Project | Description | Category |
-|--------|-------------|---------|
-| 🌐 [TrabzonDMT](https://github.com/VKWHM/TrabzonDMT-site) | Full-stack web application for digital municipality services | TUBITAK 2204 |
-| 🧩 [URL Shortener](https://github.com/VKWHM/encore-url-shortner) | Microservices architecture URL shortener | Backend |
-| 🛒 [Django E-Commerce](https://github.com/VKWHM/Django-ECommerce) | E-commerce platform using Django | Web |
-| 🎨 [Frontend Design](https://github.com/VKWHM/FrontendDesign) | UI/UX focused layout & components | UI/UX |
-
-</div>
-
----
-
-<div align="center">
-
-#### ✈️ Teknofest Competition Projects
-
-
-| Project | Description | Year |
-|--------|-------------|------|
-| ✈️ [Altair GUI](https://github.com/VKWHM/altair-gui) | ROS-based UAV control interface | 2025 |
-| 🛰️ [Altair Silent](https://github.com/VKWHM/Altair-Silent) | Autonomous UAV indoor SLAM | 2025 |
-| 🎮 [SoraSharp Framework](https://github.com/VKWHM/SoraSharp-Framework) | UAV command & control framework | 2024 |
-| 🚑 [Autonomous Medical Drone](https://github.com/VKWHM/MEDrone-GUIDED) | Medical delivery drone platform | 2023 |
-
-</div>
-
----
-
-<div align="center">
-  
-#### ⚙️ Tools, Automation & Systems
-
-
-| Project | Description | Focus |
-|--------|-------------|------|
-| ⚙️ [Dotfiles](https://github.com/vkwhm/dotfiles) | Development automation & environment tooling | DevOps |
-| 🧠 [Soroban Algorithm](https://github.com/VKWHM/soroban-algorithm) | Algorithm design & computing | CS Theory |
-| 🗄️ [Database Viewer](https://github.com/VKWHM/database-view.c) | Low-level terminal database viewer written in C | Systems |
-| 🔌 [PHP MVC](https://github.com/VKWHM/SimplePHPMVCFramework) | MVC framework from scratch | Backend |
-| 🛠️ [Admin Control Panel](https://github.com/VKWHM/SimpleControlPanel/tree/main/ControlPanel) | Web-based administration panel | Full-Stack |
-| 🧿 [OpenCV Cameo](https://github.com/VKWHM/OpenCV-Cameo) | Computer vision toolset | OpenCV |
-| ⚛️ [Next.js Appwrite](https://github.com/VKWHM/NextjsAppwrite) | Full stack Next.js + Appwrite example | Modern Web |
-
-</div>
-
 ---
 
 <h2 align="center">🛡️ Cyber Security</h2>
