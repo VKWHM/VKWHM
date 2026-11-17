@@ -29,15 +29,13 @@ I care about making things understandable, not only making them work.
 **Web & data** · `SolidJS` `SvelteKit` `PostgreSQL` `Redis`  
 **Infrastructure** · `Docker` `Cloudflare` `Nix`
 
-<details>
-  <summary><strong>A little more from the security side</strong></summary>
+### Breaking things to understand them
 
-  Web application security · Digital forensics · Red teaming
+Web application security · Digital forensics · Red teaming
 
-  <p align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/vkwhm.png" alt="TryHackMe profile badge" height="105">
-  </p>
-</details>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/vkwhm.png" alt="TryHackMe profile badge" height="105">
+</p>
 
 ---
 
