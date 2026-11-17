@@ -1,70 +1,46 @@
 <p align="center">
-  <img src="./H.svg" alt="When logic meets art" width="100%">
+  <img src="./H.svg" alt="Where logic meets art — VKWHM" width="100%">
 </p>
 
 <p align="center">
-  <strong>Code is poetry.</strong><br>
-  <sub>Mathematics · Software engineering · Cybersecurity</sub>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2600&pause=1200&color=AEC2D6&center=true&vCenter=true&width=620&lines=Some+problems+need+a+proof.;Others+need+a+debugger.;I+enjoy+both." alt="Some problems need a proof. Others need a debugger. I enjoy both.">
+  <strong>Some problems need a proof.<br>Others need a debugger.</strong><br>
+  <sub>I enjoy both.</sub>
 </p>
 
 ---
 
-### Hi, I'm Rayan.
+### Somewhere between proofs and programs
 
-I study mathematics at **Karadeniz Technical University**. I got into programming through curiosity, and stayed for the part where ideas have to work outside a notebook.
+I'm Rayan, a mathematics student at **Karadeniz Technical University**. I like code for much the same reason I like mathematics: the details matter, and a good solution should make sense when you look closely.
 
-These days I'm drawn to the less visible parts of software: **domain boundaries, state transitions, transactions, security**, and what happens when a system fails halfway through something important.
+I spend most of my time around backend systems, architecture, and security. The interesting problems often begin where the happy path ends — **retries, state transitions, transaction boundaries, secrets**, and the question of what happens when something fails.
 
-### What keeps me busy
+### What holds my attention
 
-| | |
-|:--|:--|
-| **01 / Structure** | Rust, domain-driven design, distributed workflows, state machines |
-| **02 / Building** | TypeScript, APIs, interfaces, PostgreSQL, cloud infrastructure |
-| **03 / Breaking & protecting** | Web security, cryptography, authentication, secrets management |
-| **04 / Exploring** | Mathematics, post-quantum cryptography, AI-assisted engineering |
+**Systems** · Rust, domain modeling, distributed workflows, consistency  
+**Security** · Web applications, cryptography, authentication, incident response  
+**Research** · Mathematics, post-quantum security, AI-assisted engineering
 
-I like simple models, explicit rules, and understanding *why* something works—not just getting it to work once.
+I care about making things understandable, not only making them work.
 
-### Tools I use (and occasionally break)
+### On my workbench
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-1B2A3C?style=flat-square&logo=rust&logoColor=D6D6D6" alt="Rust">
-  <img src="https://img.shields.io/badge/TypeScript-1B2A3C?style=flat-square&logo=typescript&logoColor=D6D6D6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-1B2A3C?style=flat-square&logo=python&logoColor=D6D6D6" alt="Python">
-  <img src="https://img.shields.io/badge/Go-1B2A3C?style=flat-square&logo=go&logoColor=D6D6D6" alt="Go">
-  <img src="https://img.shields.io/badge/PostgreSQL-1B2A3C?style=flat-square&logo=postgresql&logoColor=D6D6D6" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-1B2A3C?style=flat-square&logo=redis&logoColor=D6D6D6" alt="Redis">
-  <img src="https://img.shields.io/badge/Docker-1B2A3C?style=flat-square&logo=docker&logoColor=D6D6D6" alt="Docker">
-  <img src="https://img.shields.io/badge/Cloudflare-1B2A3C?style=flat-square&logo=cloudflare&logoColor=D6D6D6" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/SolidJS-1B2A3C?style=flat-square&logo=solid&logoColor=D6D6D6" alt="SolidJS">
-  <img src="https://img.shields.io/badge/Nix-1B2A3C?style=flat-square&logo=nixos&logoColor=D6D6D6" alt="Nix">
-</p>
-
-### A little security, too
-
-<p align="center">
-  Web application security · Digital forensics · Incident response · Red teaming
-</p>
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/vkwhm.png" alt="TryHackMe profile badge" height="105">
-</p>
+**Languages** · `Rust` `TypeScript` `Python` `Go`  
+**Web & data** · `SolidJS` `SvelteKit` `PostgreSQL` `Redis`  
+**Infrastructure** · `Docker` `Cloudflare` `Nix`
 
 <details>
-  <summary><strong>GitHub, in numbers</strong></summary>
+  <summary><strong>A little more from the security side</strong></summary>
+
+  Web application security · Digital forensics · Red teaming
+
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VKWHM&show_icons=true&hide_border=true&bg_color=0D1725&title_color=C8D6E4&text_color=AEC2D6&icon_color=AEC2D6" alt="GitHub stats" height="145">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKWHM&layout=compact&hide_border=true&bg_color=0D1725&title_color=C8D6E4&text_color=AEC2D6" alt="Most used languages on GitHub" height="145">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/vkwhm.png" alt="TryHackMe profile badge" height="105">
   </p>
 </details>
 
 ---
 
 <p align="center">
-  <sub>Back to the editor — or the notebook.</sub>
+  <sub>Code is poetry.</sub>
 </p>
